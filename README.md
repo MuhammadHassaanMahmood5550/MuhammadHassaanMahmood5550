@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Hassaan Mahmood
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React
-- 📫 How to reach me muhammadhassaan.me
+- 👀 I’m interested in web development, I am Front-end Web developer 
+- 🌱 I’m currently learning Back-end Web development 
+- 📫 How to reach me https://muhammadhassaan.me/
 
 <!---
 MuhammadHassaanMahmood5550/MuhammadHassaanMahmood5550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
