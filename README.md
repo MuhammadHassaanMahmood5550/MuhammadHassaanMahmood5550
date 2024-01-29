@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muhammad Hassaan Mahmood
-- 👀 I’m interested in web development, I am Front-end Web developer 
-- 🌱 I’m currently learning Back-end Web development 
+- 👀 I’m interested in web development, I am Full Stack developer 
 - 📫 How to reach me https://muhammadhassaan.me/
 
 <!---
