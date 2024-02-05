@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Hassaan Mahmood
-- 👀 I’m interested in web development, I am Full Stack developer 
+- 👀 I’m interested in web development, I am a Full Stack developer 
 - 📫 How to reach me https://muhammadhassaan.me/
 
 <!---
